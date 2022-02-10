@@ -1,0 +1,16 @@
+---
+title: "Quiz4"
+author: ""
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 1. 
+Simulate data from a binomial data model (n > 1) and a probit link. Include at least one covariate.
+
+### 2. 
+
+Fit the data using a probit link function to verify that you can estimate parameters.
